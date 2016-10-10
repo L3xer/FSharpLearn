@@ -58,6 +58,7 @@
     <Content Include="packages.config" />
     <None Include="currying.fsx" />
     <None Include="infix.fsx" />
+    <None Include="recursive_function.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Charting">
