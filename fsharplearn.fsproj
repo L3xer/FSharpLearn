@@ -59,6 +59,7 @@
     <None Include="currying.fsx" />
     <None Include="infix.fsx" />
     <None Include="recursive_function.fsx" />
+    <None Include="pipe.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Charting">
