@@ -60,6 +60,8 @@
     <None Include="infix.fsx" />
     <None Include="recursive_function.fsx" />
     <None Include="pipe.fsx" />
+    <None Include="wave_packer.fsx" />
+    <None Include="signal_generator.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Charting">
