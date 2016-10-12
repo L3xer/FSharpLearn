@@ -62,6 +62,7 @@
     <None Include="pipe.fsx" />
     <None Include="wave_packer.fsx" />
     <None Include="signal_generator.fsx" />
+    <None Include="fizzBuzz.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Charting">
