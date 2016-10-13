@@ -63,7 +63,7 @@
     <None Include="wave_packer.fsx" />
     <None Include="signal_generator.fsx" />
     <None Include="fizzBuzz.fsx" />
-    <None Include="composer-parsing.fsx" />
+    <None Include="composer_parsing.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FParsec">
